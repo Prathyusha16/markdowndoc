@@ -28,5 +28,5 @@
 
 
 # links
-nagurinchi teliyali ante [google]
+na gurinchi teliyali ante [google]
 (https://www.google.com)
